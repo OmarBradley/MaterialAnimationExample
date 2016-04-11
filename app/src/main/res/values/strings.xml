@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaterialAnimationExample</string>
+    <string name="title_activity_change">ChangeActivity</string>
+</resources>
